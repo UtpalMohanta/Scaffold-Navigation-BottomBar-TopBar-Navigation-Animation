@@ -1,4 +1,4 @@
-package com.example.scafolld
+package com.example.scafolld.Scafolld
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Column
